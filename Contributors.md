@@ -13,6 +13,7 @@
 - [Sole Ortiz](https://github.com/SoleOrtiz/)
 - [Ankit Kumar](https://github.com/ankitkumar3440)
 - [Sergey Novikov] (https://github.com/Isn0v)
+- [Othmane E.] (https://github.com/namToDev)
 - [Souhil OMARI](https://github.com/Souhil19)
 - [Anchal Kumar Chaudahry](https://github.com/anchal9670)
 - [ARIJIT](https://github.com/Arijit8101)
